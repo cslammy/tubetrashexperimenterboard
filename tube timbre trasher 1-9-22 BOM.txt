@@ -1,0 +1,54 @@
+ TUBE TIMBRE TRASHER 1-9-22  BOM
+All caps without value are .1uF
+All pots are linear unless otherwise stated.
+
+Part           Value  Device           Package         Description                                       PO SPICEPREFIX
+ 
+ 
+C1                    C-US025-025X050  C025-025X050    CAPACITOR, American symbol                        0          C          
+C2                    C-US025-025X050  C025-025X050    CAPACITOR, American symbol                        0          C          
+C3             .22uF  C5/3.5           C5B3.5          CAPACITOR                                                    C          
+C4                    C-US025-030X050  C025-030X050    CAPACITOR, American symbol                        1          C          
+C5                    C-US025-025X050  C025-025X050    CAPACITOR, American symbol                        0          C          
+C6                    C-US025-025X050  C025-025X050    CAPACITOR, American symbol                        0          C          
+C7                    C-US025-025X050  C025-025X050    CAPACITOR, American symbol                        0          C          
+C8             .1uF   C5/2.5           C5B2.5          CAPACITOR                                                    C          
+CAP-POT        100K   9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style            J          AUDIO TAPER
+ 
+ 
+D2                    1N4148DO35-7     DO35-7          DIODE                                             58         D          
+D3                    1N4148DO35-7     DO35-7          DIODE                                             58         D          
+DIV1           100K   9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style            J          
+DIV2           100K   9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style            J          
+DIV3           100K   9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style            J          
+DIV4           100K   9MM_SNAP-IN_POT_ 9MM_SNAP-IN_POT 9mm vertical snap-in pot, Alpha / Panasonic style            J          
+ 
+IC1            TL081P TL081P           DIL08           OP AMP                                                       X          
+IC2            TL072P TL072P           DIL08           OP AMP                                                       B          
+IC3            TL072P TL072P           DIL08           OP AMP                                                       B          
+ 
+LED1                  LED3MM           LED3MM          LED                                                          L          
+LED2                  LED3MM           LED3MM          LED                                                          L          
+ X          
+R1             1.5K   R-US_0207/10     0207/10         RESISTOR, American symbol                                    R          
+R2             1.5K   R-US_0207/10     0207/10         RESISTOR, American symbol                                    R          
+R3             100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R4             100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R5             100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R6             100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R7             100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R8             100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R9             2.2K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R10            8.2K   R-US_0207/15     0207/15         RESISTOR, American symbol                         0          R          
+R11            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R12            1M     R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R13            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R14            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R15            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R16            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R17            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R18            1K     R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R19            1K     R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R20            100K   R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+R21            1K     R-US_0204/7      0204/7          RESISTOR, American symbol                                    R          
+ 
